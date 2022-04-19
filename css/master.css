@@ -46,10 +46,33 @@ a{
     height: 600px;
 }
 
+.container-img{
+    position: relative;
+
+}
+
 .col-img{
     width: 300px;
 }
 
+.col-bg-red{
+    background-color: red;
+}
+.col-bg-green{
+    background-color: rgb(22, 147, 25);
+}
+
+.heart{
+    position: absolute;
+    top: 5px;
+    right: 0px;
+    background-color: white;
+    font-size: 24px;
+    border: solid white;
+    padding: 5px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
 
 .col-col{
     display: flex;
