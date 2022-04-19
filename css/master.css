@@ -50,7 +50,9 @@ a{
     width: 300px;
 }
 
+
 .col-col{
     display: flex;
     flex-direction: column;
 }
+
